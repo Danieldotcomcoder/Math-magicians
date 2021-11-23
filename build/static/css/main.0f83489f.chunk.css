@@ -1,0 +1,2 @@
+.calculator{display:flex;flex-direction:column;margin-top:2%}.calc-grid{display:grid;justify-content:center;align-content:center;min-height:50vh;grid-template-columns:repeat(4,140px);grid-template-rows:repeat(5,15vh)}.calc-output{background-color:grey;height:15vh;text-align:right;color:#fff;font-size:20px;width:560px;margin-left:395px}#zero{grid-column:span 2}.logic-operators{background-color:#f5913e}button{cursor:pointer;font-weight:700;font-size:15px;border:1px solid #d3d3d3}
+/*# sourceMappingURL=main.0f83489f.chunk.css.map */
