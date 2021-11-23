@@ -1,8 +1,9 @@
 import React from 'react';
 
-export default function Calculator() {
-  return (
-    <>
+// eslint-disable-next-line react/prefer-stateless-function
+class Calculator extends React.Component {
+  render() {
+    return (
       <div className="calculator">
         <div className="calc-output"> 0 </div>
         <div className="calc-grid">
@@ -27,6 +28,9 @@ export default function Calculator() {
           <button type="button" className="logic-operators"> = </button>
         </div>
       </div>
-    </>
-  );
+
+    );
+  }
 }
+
+export default Calculator;
