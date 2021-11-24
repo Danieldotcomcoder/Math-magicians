@@ -17,15 +17,17 @@
   display: flex;
   background-color: rgb(156, 154, 154);
   height: 13vh;
-  color: white;
   font-size: 40px;
   width: 44%;
   margin-left: 28%;
 }
 
 .calc-result {
-  margin-left: 95%;
-  margin-top: 4%;
+  margin-top: 7%;
+  font-size: 35px;
+  color: white;
+  width: 100%;
+  text-align: right;
 }
 
 #zero {
