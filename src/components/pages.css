@@ -10,16 +10,17 @@
 }
 
 .Navlist li {
-  color: blue;
+  color: rgb(194, 0, 233);
+  text-decoration: underline rgb(194, 0, 233) ;
 }
 
 #home {
-  border-right: 1px solid black;
+  border-right: 1px solid rgb(194, 0, 233);
   padding-right: 30px;
 }
 
 #calculator {
-  border-right: 1px solid black;
+  border-right: 1px solid rgb(194, 0, 233);
   padding-right: 20px;
 }
 
