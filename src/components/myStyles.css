@@ -1,7 +1,9 @@
 .calculator {
   display: flex;
   flex-direction: column;
-  margin-top: 2%;
+  margin-top: 1%;
+  margin-left: 25%;
+  width: 70%;
 }
 
 .calc-grid {
@@ -9,8 +11,9 @@
   justify-content: center;
   align-content: center;
   min-height: 50vh;
-  grid-template-columns: repeat(4, 11%);
-  grid-template-rows: repeat(5, 15vh);
+  grid-template-columns: repeat(4, 22%);
+  grid-template-rows: repeat(5, 13vh);
+  margin-left: 10%;
 }
 
 .calc-output {
@@ -18,8 +21,8 @@
   background-color: rgb(156, 154, 154);
   height: 13vh;
   font-size: 40px;
-  width: 44%;
-  margin-left: 28%;
+  width: 79%;
+  margin-left: 15.5%;
 }
 
 .calc-result {
@@ -43,4 +46,22 @@ button {
   font-weight: 700;
   font-size: 15px;
   border: 1px solid lightgray;
+}
+
+.calc-page {
+  display:  flex;
+  flex-direction: row;
+}
+.math-state {
+  margin-top: 10%;
+  font-size: 4.8vh;
+  width: 30%;
+}
+
+body {
+ background-color: lightseagreen;
+ background-size: 100%;
+ background-repeat: no-repeat;
+ color: rgb(143, 60, 60);
+ font-family: sans-serif;
 }
