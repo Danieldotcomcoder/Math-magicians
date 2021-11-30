@@ -49,9 +49,10 @@ button {
 }
 
 .calc-page {
-  display:  flex;
+  display: flex;
   flex-direction: row;
 }
+
 .math-state {
   margin-top: 10%;
   font-size: 4.8vh;
@@ -59,9 +60,9 @@ button {
 }
 
 body {
- background-color: lightseagreen;
- background-size: 100%;
- background-repeat: no-repeat;
- color: rgb(143, 60, 60);
- font-family: sans-serif;
+  background-color: rgb(24, 65, 63);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  color: rgb(125, 172, 49);
+  font-family: sans-serif;
 }
