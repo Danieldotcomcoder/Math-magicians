@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render about link 1`] = `
+<nav>
+  <ul
+    className="Navlist"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <li
+        id="home"
+      >
+        Home
+      </li>
+    </a>
+    <a
+      href="/calculator"
+      onClick={[Function]}
+    >
+      <li
+        id="calculator"
+      >
+        Calculator
+      </li>
+    </a>
+    <a
+      href="/quote"
+      onClick={[Function]}
+    >
+      <li>
+        Quote
+      </li>
+    </a>
+  </ul>
+</nav>
+`;
