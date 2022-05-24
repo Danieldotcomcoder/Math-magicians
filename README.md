@@ -27,7 +27,7 @@ To get a running local copy follow these simple example steps:
 
 - GitHub: [https://github.com/Danieldotcomcoder)]
 - Twitter: [https://twitter.com/DannyDotcoder)]
-- LinkedIn: [https://www.linkedin.com/in/daniel-shdeed-832b03115/]
+- LinkedIn: [https://www.linkedin.com/in/daniel-shdeed/]
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
