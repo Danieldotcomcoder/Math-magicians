@@ -1,4 +1,6 @@
-## Math magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+## Math magicians
+
+ Website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 
 * Make simple calculations.
 
@@ -20,12 +22,13 @@ To get a running local copy follow these simple example steps:
                            2-  npm run build.
                            3-  npm start. 
 
+ [Live Version](https://stirring-cuchufli-caafe0.netlify.app/calculator)
 ## Author
 👤 Daniel Shdeed
 
-- GitHub: [https://github.com/Danieldotcomcoder)]
-- Twitter: [https://twitter.com/DannyDotcoder)]
-- LinkedIn: [https://www.linkedin.com/in/daniel-shdeed/]
+- [GitHub](https://github.com/Danieldotcomcoder)
+- [Twitter](https://twitter.com/DannyDotcoder)
+- [LinkedIn](https://www.linkedin.com/in/daniel-shdeed/)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
