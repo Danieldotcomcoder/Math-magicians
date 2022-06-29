@@ -1,15 +1,11 @@
 ## Math magicians
-
- Website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
-
-* Make simple calculations.
+ Website for all fans of mathematics. It is a Single Page App that allows users to use a normal calculator.
 
 ## Built With
 ### Major languages
 - React
 - CSS
 - Javascript
-
 ### Technologies used
 - Github
 - Gitflow
@@ -29,7 +25,6 @@ To get a running local copy follow these simple example steps:
 - [GitHub](https://github.com/Danieldotcomcoder)
 - [Twitter](https://twitter.com/DannyDotcoder)
 - [LinkedIn](https://www.linkedin.com/in/daniel-shdeed/)
-
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 ## Show your support
