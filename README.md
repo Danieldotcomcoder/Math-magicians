@@ -13,10 +13,12 @@
 
 ## Getting Started
 To get a running local copy follow these simple example steps:
-* git clone  https://github.com/Danieldotcomcoder/Math-magicians.git
-* open terminal and type : 1-  npm install
-                           2-  npm run build.
-                           3-  npm start. 
+- git clone  https://github.com/Danieldotcomcoder/Math-magicians.git
+
+Run: 
+-  npm install
+-  npm run build.
+-  npm start. 
 
  [Live Version](https://stirring-cuchufli-caafe0.netlify.app/calculator)
 ## Author
