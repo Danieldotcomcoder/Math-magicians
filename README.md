@@ -1,5 +1,5 @@
 ## Math magicians
- Website for all fans of mathematics. It is a Single Page App that allows users to use a normal calculator.
+ It is a Single Page App that allows users to use a normal calculator.
 
 ## Built With
 ### Major languages
